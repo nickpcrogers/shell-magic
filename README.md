@@ -2,7 +2,7 @@
 Some small single-purpose (sometimes very specific) scripts I might want later.
 
 ## hfind.sh
-A neat string of piped header shell commands to find a c(++) header in your system. I didn't write this but I have since lost the source.
+A neat string of piped header shell commands to find a c(++) header in your system. I didn't write this but I have since lost the source (some random StackOverflow post).
 
 ## ipfind.py
 Find available IPs in a subnet.

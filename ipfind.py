@@ -13,6 +13,7 @@ def get_last_byte(ip):
 
 def main():
     """Print out free ip addresses on local subnet."""
+
     print("getting arp-scan output...")
     try:
         ip_info = subprocess.check_output(['arp-scan','--local']).decode().split()
