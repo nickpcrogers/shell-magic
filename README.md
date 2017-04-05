@@ -1,7 +1,7 @@
 # shell-magic
 Some small single-purpose (sometimes very specific) scripts I might want later.
 
-# bitcheck.py
+## bitcheck.py
 Given a hex value, determine which bits are high (e.g. 0x5 -> 2,0). Given a list of bits, do the reverse.
 
 ## hfind.sh
